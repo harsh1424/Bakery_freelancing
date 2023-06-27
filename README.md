@@ -1,13 +1,14 @@
 # Getting Started to our Bakery App
 
 # Installation
-1. Clone the repository or download the zip file
+1. Clone the repository 
    ### git clone https://github.com/harsh1424/Bakery_freelancing.git
+   Or, you can download the Zip file from code section then extract the file in your react app folder and in terminal run below Commands
    
-2. Navigate to the project directory.
-   ### cd your-repo
+3. Navigate to the project directory.
+   ### cd your_repo
 
-3. Install the dependencies.
+4. Install the dependencies.
    ### npm install
    
    
