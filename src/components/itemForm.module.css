@@ -1,0 +1,22 @@
+.form {
+    text-align: center;
+  }
+  
+  .form button {
+    margin-top: -16px;
+    background-color: #fff;
+    color: rgb(202, 15, 15);
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    cursor: pointer;
+    position: absolute;
+    transform: translateX(-50%);
+    border-radius: 10px;
+    
+  }
+
+  .form button:hover{
+    color: #ccc;
+    background-color: rgb(202, 15, 15);
+  }
+  

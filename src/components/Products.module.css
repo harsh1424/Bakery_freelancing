@@ -1,0 +1,67 @@
+.productHeading{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.productHeading h2{
+    text-align: center;
+    /* font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    font-weight: 700;
+    font-size: 30px;
+    /* color: rgb(61, 8, 8); */
+    font-family: 'Courier Prime', monospace;
+
+}
+
+.productHeading img{
+    height: 25px;
+    width: 25px;
+}
+
+.cardContainer {
+    width: 80%;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  
+  
+
+  @media only screen and (max-width: 1120px){
+.productHeading{
+  margin-top: 220px;
+}
+  }
+
+  @media only screen and (max-width: 1050px) {
+    .cardContainer {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  
+    .card {
+      margin: 15px;
+    }
+
+    .productHeading {
+      margin-top: 200px;
+    }
+  }
+  
+  @media only screen and (max-width: 480px) {
+    .productHeading {
+      margin-top: 300px;
+    }
+  
+    .cardContainer {
+      width: 90%;
+    }
+  
+    .card {
+      width: 100%;
+    }
+  }
