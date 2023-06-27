@@ -1,5 +1,8 @@
 # Getting Started to our Bakery App
 
+#### Please keep in mind that Node.js should be installed on your system. If you don't have Node.js installed, please make sure to install it first.
+
+
 # Installation
 1. Clone the repository 
    ### git clone https://github.com/harsh1424/Bakery_freelancing.git
