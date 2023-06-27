@@ -1,20 +1,18 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started to our Bakery App
 
 # Installation
-1. Clone the repository
-   git clone https://github.com/harsh1424/Bakery_freelancing.git
+1. Clone the repository or download the zip file
+   ### git clone https://github.com/harsh1424/Bakery_freelancing.git
    
 2. Navigate to the project directory.
-   cd your-repo
+   ### cd your-repo
 
 3. Install the dependencies.
-   npm install
+   ### npm install
    
    
 
-## Available Scripts
+## To Run
 
 In the project directory, you can run:
 
