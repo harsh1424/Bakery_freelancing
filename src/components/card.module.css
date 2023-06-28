@@ -5,7 +5,8 @@
     text-align: center;
     position: relative;
     transition: transform 0.3s ease;
-  }
+    margin-bottom: 40px;
+}
   
   .card:hover {
     transform: scale(1.05); /* Apply scaling effect on hover */
